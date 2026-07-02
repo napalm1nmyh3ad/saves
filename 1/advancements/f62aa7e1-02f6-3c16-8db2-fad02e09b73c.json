@@ -210,6 +210,12 @@
     },
     "done": true
   },
+  "ba_bt:battletowers/battle_tower": {
+    "criteria": {
+      "crafting_table": "2026-07-02 22:27:50 +0300"
+    },
+    "done": true
+  },
   "psi:main/psimetal_assembly_pickup": {
     "criteria": {
       "flower": "2026-07-02 20:23:29 +0300"
@@ -412,6 +418,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:23:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-07-02 22:27:49 +0300"
     },
     "done": true
   },
@@ -930,6 +942,12 @@
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2026-07-02 21:38:37 +0300"
+    },
+    "done": true
+  },
+  "siegemachines:siegemachines": {
+    "criteria": {
+      "requirement": "2026-07-02 22:27:56 +0300"
     },
     "done": true
   },
