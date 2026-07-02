@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2026-07-02 23:06:07 +0300"
+    },
+    "done": true
+  },
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2026-07-02 20:21:03 +0300"
@@ -551,6 +557,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2026-07-02 22:12:32 +0300",
+      "minecraft:sunflower_plains": "2026-07-02 22:39:01 +0300",
       "minecraft:birch_forest": "2026-07-02 22:08:20 +0300",
       "minecraft:windswept_hills": "2026-07-02 22:11:32 +0300",
       "minecraft:river": "2026-07-02 20:27:15 +0300",
@@ -752,11 +759,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2026-07-02 23:08:15 +0300",
       "minecraft:skeleton": "2026-07-02 21:14:40 +0300",
       "minecraft:spider": "2026-07-02 20:51:51 +0300",
       "minecraft:husk": "2026-07-02 21:33:28 +0300",
       "minecraft:cave_spider": "2026-07-02 21:42:57 +0300",
       "minecraft:enderman": "2026-07-02 22:30:58 +0300",
+      "minecraft:silverfish": "2026-07-02 22:39:22 +0300",
       "minecraft:zombie": "2026-07-02 20:41:29 +0300"
     },
     "done": false
@@ -912,6 +921,12 @@
       "hand_axe": "2026-07-02 20:21:13 +0300"
     },
     "done": false
+  },
+  "ba_bt:battletowers/land_tower_found": {
+    "criteria": {
+      "Find Land Tower": "2026-07-02 22:57:39 +0300"
+    },
+    "done": true
   },
   "comforts:hammock_blue": {
     "criteria": {
