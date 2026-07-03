@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2026-07-03 21:33:03 +0300"
+    },
+    "done": true
+  },
   "mialliance:friendly_seedlings": {
     "criteria": {
       "requirement": "2026-07-02 22:00:38 +0300"
@@ -149,6 +155,18 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2026-07-03 21:33:21 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-07-03 21:28:35 +0300"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:21:04 +0300"
@@ -176,6 +194,12 @@
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2026-07-02 20:21:03 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2026-07-03 21:33:03 +0300"
     },
     "done": true
   },
@@ -220,6 +244,12 @@
   "ba_bt:battletowers/battle_tower": {
     "criteria": {
       "crafting_table": "2026-07-02 20:55:32 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2026-07-03 21:33:03 +0300"
     },
     "done": true
   },
@@ -309,6 +339,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2026-07-03 21:58:28 +0300",
       "cooked_beef": "2026-07-02 20:28:03 +0300",
       "bread": "2026-07-02 20:52:12 +0300"
     },
@@ -341,6 +372,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:21:04 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2026-07-03 21:39:14 +0300"
     },
     "done": true
   },
@@ -494,6 +531,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2026-07-03 21:33:19 +0300"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:21:04 +0300"
@@ -557,14 +600,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2026-07-02 22:12:32 +0300",
+      "minecraft:taiga": "2026-07-03 21:54:13 +0300",
       "minecraft:sunflower_plains": "2026-07-02 22:39:01 +0300",
       "minecraft:birch_forest": "2026-07-02 22:08:20 +0300",
       "minecraft:windswept_hills": "2026-07-02 22:11:32 +0300",
       "minecraft:river": "2026-07-02 20:27:15 +0300",
+      "minecraft:stony_shore": "2026-07-03 21:54:17 +0300",
       "minecraft:dripstone_caves": "2026-07-02 20:46:47 +0300",
       "minecraft:swamp": "2026-07-02 22:11:49 +0300",
       "minecraft:forest": "2026-07-02 20:21:04 +0300",
       "minecraft:windswept_forest": "2026-07-02 22:10:59 +0300",
+      "minecraft:flower_forest": "2026-07-03 22:03:01 +0300",
       "minecraft:meadow": "2026-07-02 20:25:02 +0300",
       "minecraft:plains": "2026-07-02 20:22:53 +0300"
     },
@@ -661,6 +707,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2026-07-03 22:01:33 +0300"
+    },
+    "done": true
+  },
   "tconstruct:world/slime_collector": {
     "criteria": {
       "earth": "2026-07-02 21:46:50 +0300"
@@ -703,6 +755,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2026-07-03 21:33:19 +0300"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:21:04 +0300"
@@ -715,6 +773,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2026-07-03 21:39:14 +0300"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:21:04 +0300"
@@ -724,6 +788,12 @@
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2026-07-02 20:21:03 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2026-07-03 21:39:06 +0300"
     },
     "done": true
   },
@@ -762,6 +832,7 @@
       "minecraft:pillager": "2026-07-02 23:08:15 +0300",
       "minecraft:skeleton": "2026-07-02 21:14:40 +0300",
       "minecraft:spider": "2026-07-02 20:51:51 +0300",
+      "minecraft:creeper": "2026-07-03 22:08:51 +0300",
       "minecraft:husk": "2026-07-02 21:33:28 +0300",
       "minecraft:cave_spider": "2026-07-02 21:42:57 +0300",
       "minecraft:enderman": "2026-07-02 22:30:58 +0300",
@@ -773,6 +844,12 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2026-07-02 20:21:03 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor_to_cloth": {
+    "criteria": {
+      "has_tattered_armor": "2026-07-03 22:04:30 +0300"
     },
     "done": true
   },
@@ -882,6 +959,12 @@
   "orcz:orczchallenge": {
     "criteria": {
       "orczchallenge": "2026-07-02 20:21:13 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/expert_mode": {
+    "criteria": {
+      "game_state": "2026-07-03 21:28:30 +0300"
     },
     "done": true
   },

@@ -1,0 +1,770 @@
+{
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2026-07-03 12:51:05 +0300"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2026-07-03 12:56:17 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2026-07-03 20:55:11 +0300"
+    },
+    "done": true
+  },
+  "mialliance:friendly_seedlings": {
+    "criteria": {
+      "requirement": "2026-07-03 11:30:56 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2026-07-03 12:50:28 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2026-07-03 20:55:53 +0300"
+    },
+    "done": true
+  },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2026-07-03 11:33:21 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2026-07-03 20:21:30 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/fishing_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2026-07-03 19:07:54 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2026-07-03 11:28:58 +0300"
+    },
+    "done": true
+  },
+  "mialliance:mimaterial_mistrum": {
+    "criteria": {
+      "requirement": "2026-07-03 11:30:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-07-03 19:34:10 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-07-03 20:14:02 +0300"
+    },
+    "done": true
+  },
+  "psi:main/psimetal_pickup": {
+    "criteria": {
+      "flower": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2026-07-03 11:26:28 +0300"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2026-07-03 11:34:47 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2026-07-03 20:44:35 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-07-03 20:32:03 +0300"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2026-07-03 13:10:51 +0300"
+    },
+    "done": true
+  },
+  "psi:main/ebony_pickup": {
+    "criteria": {
+      "flower": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "ba_bt:battletowers/find_land_key": {
+    "criteria": {
+      "Acquire Key": "2026-07-03 20:52:09 +0300"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/goblin_slayer": {
+    "criteria": {
+      "goblo": "2026-07-03 11:56:25 +0300",
+      "garch": "2026-07-03 11:54:27 +0300",
+      "goom": "2026-07-03 11:58:47 +0300",
+      "gobber": "2026-07-03 11:55:31 +0300",
+      "mimic": "2026-07-03 11:59:32 +0300",
+      "gob": "2026-07-03 11:55:57 +0300",
+      "hobgob": "2026-07-03 11:55:42 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/an_unpleasant_surprise": {
+    "criteria": {
+      "killed_something": "2026-07-03 11:59:32 +0300"
+    },
+    "done": true
+  },
+  "mialliance:mi_archer": {
+    "criteria": {
+      "requirement": "2026-07-03 12:45:23 +0300"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/end_of_the_labyrinth": {
+    "criteria": {
+      "killed_something": "2026-07-03 12:15:33 +0300"
+    },
+    "done": true
+  },
+  "mialliance:mi_legionnaire": {
+    "criteria": {
+      "requirement": "2026-07-03 13:33:12 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2026-07-03 20:44:45 +0300"
+    },
+    "done": true
+  },
+  "psi:main/psimetal_assembly_pickup": {
+    "criteria": {
+      "flower": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2026-07-03 13:12:53 +0300"
+    },
+    "done": true
+  },
+  "psi:main/iron_cad_pickup": {
+    "criteria": {
+      "flower": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "psi:main/ebony_assembly_pickup": {
+    "criteria": {
+      "flower": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "psi:main/psidust": {
+    "criteria": {
+      "flower": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2026-07-03 21:00:29 +0300",
+      "cooked_beef": "2026-07-03 11:30:14 +0300",
+      "baked_potato": "2026-07-03 12:55:38 +0300",
+      "apple": "2026-07-03 11:53:28 +0300",
+      "cooked_cod": "2026-07-03 19:38:44 +0300",
+      "pumpkin_pie": "2026-07-03 21:07:29 +0300",
+      "bread": "2026-07-03 11:33:17 +0300",
+      "cooked_chicken": "2026-07-03 21:08:38 +0300",
+      "rabbit_stew": "2026-07-03 11:45:11 +0300",
+      "cooked_salmon": "2026-07-03 19:23:46 +0300",
+      "carrot": "2026-07-03 12:02:00 +0300"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2026-07-03 11:32:57 +0300"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/ogres_are_like_onions": {
+    "criteria": {
+      "killed_something": "2026-07-03 11:58:25 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2026-07-03 11:51:26 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2026-07-03 20:45:39 +0300"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2026-07-03 13:31:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-07-03 11:26:29 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2026-07-03 12:50:28 +0300"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/root": {
+    "criteria": {
+      "tick": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2026-07-03 17:39:57 +0300"
+    },
+    "done": true
+  },
+  "mialliance:mi_commando": {
+    "criteria": {
+      "requirement": "2026-07-03 19:59:01 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2026-07-03 12:31:25 +0300"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2026-07-03 11:58:57 +0300"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2026-07-03 11:28:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-07-03 19:27:34 +0300"
+    },
+    "done": true
+  },
+  "mialliance:mi_rider": {
+    "criteria": {
+      "requirement": "2026-07-03 19:58:53 +0300"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2026-07-03 12:06:55 +0300"
+    },
+    "done": true
+  },
+  "ag_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:vindicator": "2026-07-03 11:32:52 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2026-07-03 20:44:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2026-07-03 11:40:01 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-07-03 12:31:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-07-03 12:51:05 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2026-07-03 11:22:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2026-07-03 13:10:04 +0300",
+      "minecraft:sunflower_plains": "2026-07-03 17:44:33 +0300",
+      "minecraft:river": "2026-07-03 11:29:25 +0300",
+      "minecraft:forest": "2026-07-03 12:34:26 +0300",
+      "minecraft:flower_forest": "2026-07-03 11:41:14 +0300",
+      "minecraft:meadow": "2026-07-03 11:53:56 +0300",
+      "minecraft:plains": "2026-07-03 11:22:32 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-07-03 12:29:12 +0300"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_sturdy": {
+    "criteria": {
+      "find": "2026-07-03 12:56:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-07-03 11:30:14 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "ag_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement": "2026-07-03 11:33:21 +0300"
+    },
+    "done": true
+  },
+  "psi:main/ivory_assembly_pickup": {
+    "criteria": {
+      "flower": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2026-07-03 19:51:10 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2026-07-03 11:22:44 +0300",
+      "inv_changed-diamond": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mialliance:mi_1": {
+    "criteria": {
+      "requirement": "2026-07-03 11:29:47 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2026-07-03 20:24:40 +0300",
+      "earth": "2026-07-03 18:08:43 +0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2026-07-03 19:47:55 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "psi:main/psigem_pickup": {
+    "criteria": {
+      "flower": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-07-03 11:29:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-07-03 19:37:44 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2026-07-03 20:45:27 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2026-07-03 12:14:03 +0300",
+      "minecraft:blaze": "2026-07-03 20:17:49 +0300",
+      "minecraft:skeleton": "2026-07-03 11:48:34 +0300",
+      "minecraft:hoglin": "2026-07-03 19:40:58 +0300",
+      "minecraft:vindicator": "2026-07-03 11:32:52 +0300",
+      "minecraft:magma_cube": "2026-07-03 20:24:29 +0300",
+      "minecraft:spider": "2026-07-03 11:35:54 +0300",
+      "minecraft:piglin_brute": "2026-07-03 19:46:42 +0300",
+      "minecraft:creeper": "2026-07-03 12:41:52 +0300",
+      "minecraft:zombified_piglin": "2026-07-03 20:20:18 +0300",
+      "minecraft:witch": "2026-07-03 17:39:43 +0300",
+      "minecraft:wither_skeleton": "2026-07-03 12:58:26 +0300",
+      "minecraft:husk": "2026-07-03 13:22:54 +0300",
+      "minecraft:cave_spider": "2026-07-03 13:01:49 +0300",
+      "minecraft:piglin": "2026-07-03 19:44:08 +0300",
+      "minecraft:silverfish": "2026-07-03 11:44:55 +0300",
+      "minecraft:stray": "2026-07-03 13:02:36 +0300",
+      "minecraft:enderman": "2026-07-03 19:31:11 +0300",
+      "minecraft:vex": "2026-07-03 11:35:04 +0300",
+      "minecraft:zombie": "2026-07-03 11:37:43 +0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2026-07-03 18:48:55 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor_to_cloth": {
+    "criteria": {
+      "has_tattered_armor": "2026-07-03 20:45:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-07-03 19:34:10 +0300"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2026-07-03 19:47:59 +0300"
+    },
+    "done": true
+  },
+  "psi:main/ivory_pickup": {
+    "criteria": {
+      "flower": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2026-07-03 11:26:29 +0300"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2026-07-03 18:00:43 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_root": {
+    "criteria": {
+      "requirement": "2026-07-03 11:26:29 +0300"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2026-07-03 11:33:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-07-03 19:36:16 +0300",
+      "minecraft:nether_wastes": "2026-07-03 19:36:04 +0300",
+      "minecraft:soul_sand_valley": "2026-07-03 19:50:47 +0300",
+      "minecraft:warped_forest": "2026-07-03 19:34:11 +0300",
+      "minecraft:basalt_deltas": "2026-07-03 20:13:48 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2026-07-03 11:30:28 +0300"
+    },
+    "done": true
+  },
+  "orcz:orczchallenge": {
+    "criteria": {
+      "orczchallenge": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/expert_mode": {
+    "criteria": {
+      "game_state": "2026-07-03 19:34:10 +0300"
+    },
+    "done": true
+  },
+  "psi:main/root": {
+    "criteria": {
+      "flower": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-07-03 11:32:56 +0300"
+    },
+    "done": true
+  },
+  "psi:main/gold_assembly_pickup": {
+    "criteria": {
+      "flower": "2026-07-03 11:22:44 +0300"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2026-07-03 11:34:47 +0300"
+    },
+    "done": true
+  },
+  "ba_bt:battletowers/land_tower_found": {
+    "criteria": {
+      "Find Land Tower": "2026-07-03 11:32:27 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2026-07-03 11:45:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-07-03 11:58:57 +0300"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2026-07-03 17:39:57 +0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2026-07-03 19:40:37 +0300"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2026-07-03 12:31:54 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

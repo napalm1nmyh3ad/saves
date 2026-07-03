@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2026-07-03 21:53:59 +0300"
+    },
+    "done": true
+  },
   "mialliance:friendly_seedlings": {
     "criteria": {
       "requirement": "2026-07-02 20:30:55 +0300"
@@ -50,6 +56,12 @@
   "comforts:sleeping_bag_lime": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:23:29 +0300"
+    },
+    "done": true
+  },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2026-07-03 21:34:07 +0300"
     },
     "done": true
   },
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-07-03 21:29:01 +0300"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:23:29 +0300"
@@ -213,6 +231,12 @@
   "ba_bt:battletowers/battle_tower": {
     "criteria": {
       "crafting_table": "2026-07-02 22:27:50 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2026-07-03 21:44:13 +0300"
     },
     "done": true
   },
@@ -303,6 +327,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2026-07-02 20:37:43 +0300",
+      "cooked_cod": "2026-07-03 21:32:08 +0300",
       "bread": "2026-07-02 20:37:49 +0300"
     },
     "done": false
@@ -340,6 +365,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:23:29 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2026-07-03 21:33:02 +0300"
     },
     "done": true
   },
@@ -457,6 +488,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-07-03 21:36:28 +0300"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:23:29 +0300"
@@ -490,6 +527,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2026-07-02 20:51:37 +0300"
+    },
+    "done": true
+  },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2026-07-03 21:51:16 +0300"
     },
     "done": true
   },
@@ -560,10 +603,14 @@
       "minecraft:taiga": "2026-07-02 20:44:01 +0300",
       "minecraft:sunflower_plains": "2026-07-02 21:15:57 +0300",
       "minecraft:birch_forest": "2026-07-02 21:06:36 +0300",
+      "minecraft:beach": "2026-07-03 21:54:58 +0300",
       "minecraft:sparse_jungle": "2026-07-02 21:26:17 +0300",
       "minecraft:river": "2026-07-02 20:34:55 +0300",
+      "minecraft:lukewarm_ocean": "2026-07-03 21:52:43 +0300",
+      "minecraft:stony_shore": "2026-07-03 21:53:44 +0300",
       "minecraft:forest": "2026-07-02 20:27:16 +0300",
       "minecraft:jungle": "2026-07-02 21:27:12 +0300",
+      "minecraft:ocean": "2026-07-03 21:54:59 +0300",
       "minecraft:flower_forest": "2026-07-02 22:18:36 +0300",
       "minecraft:old_growth_birch_forest": "2026-07-02 21:27:39 +0300",
       "minecraft:meadow": "2026-07-02 20:45:01 +0300",
@@ -645,6 +692,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2026-07-03 21:37:49 +0300"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:23:29 +0300"
@@ -669,6 +722,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2026-07-03 21:37:18 +0300"
+    },
+    "done": true
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2026-07-02 20:23:29 +0300"
@@ -687,6 +746,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2026-07-03 21:53:59 +0300"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:23:29 +0300"
@@ -699,6 +764,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2026-07-03 21:44:13 +0300"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2026-07-02 20:23:29 +0300"
@@ -708,6 +779,12 @@
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2026-07-02 20:23:29 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2026-07-03 21:39:09 +0300"
     },
     "done": true
   },
@@ -744,14 +821,23 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2026-07-02 20:51:37 +0300",
+      "minecraft:vindicator": "2026-07-03 21:33:02 +0300",
       "minecraft:spider": "2026-07-02 21:46:35 +0300",
       "minecraft:creeper": "2026-07-02 22:14:19 +0300",
       "minecraft:witch": "2026-07-02 21:43:44 +0300",
       "minecraft:husk": "2026-07-02 22:57:56 +0300",
       "minecraft:silverfish": "2026-07-02 23:12:51 +0300",
-      "minecraft:zombie": "2026-07-02 21:44:20 +0300"
+      "minecraft:stray": "2026-07-03 21:33:04 +0300",
+      "minecraft:zombie": "2026-07-02 21:44:20 +0300",
+      "minecraft:drowned": "2026-07-03 22:01:12 +0300"
     },
     "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2026-07-03 22:14:10 +0300"
+    },
+    "done": true
   },
   "mcwfences:recipes/quartz": {
     "criteria": {
@@ -871,6 +957,12 @@
   "orcz:orczchallenge": {
     "criteria": {
       "orczchallenge": "2026-07-02 20:23:29 +0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/expert_mode": {
+    "criteria": {
+      "game_state": "2026-07-03 21:29:01 +0300"
     },
     "done": true
   },
